@@ -1,0 +1,35 @@
+Name,Type,Amount,Calorie
+Apple,Fruit,medium,95
+Banana,Fruit,medium,105
+Orange,Fruit,medium,85
+Strawberry,Fruit,1 cup,50
+Grapes,Fruit,1 cup,100
+Watermelon,Fruit,1 cup,45
+Avocado,Fruit,1/2,160
+Broccoli,Vegetable,1 cup,55
+Carrot,Vegetable,1 cup,50
+Spinach,Vegetable,1 cup,7
+Lettuce,Vegetable,1 cup,10
+Tomato,Vegetable,medium,25
+Bell pepper,Vegetable,1 cup,30
+Onion,Vegetable,1/2 cup,30
+Rice,Grain,1 cup cooked,200-250
+Bread,Grain,1 slice,70-100
+Pasta,Grain,1 cup cooked,200-250
+Oatmeal,Grain,1/2 cup dry,150
+Quinoa,Grain,1 cup cooked,220
+Chicken breast,Protein,3 oz cooked,165
+Beef,Protein,3 oz lean cooked,170
+Fish,Protein,3 oz cooked,100-200
+Egg,Protein,1 large,75
+Tofu,Protein,3 oz,70
+Beans,Protein,1/2 cup cooked,100-150
+Nuts,Protein,1/4 cup,150-200
+Milk,Dairy,1 cup,100-150
+Yogurt,Dairy,1 cup,100-200
+Cheese,Dairy,1 oz,100
+Butter,Dairy,1 tbsp,100
+Olive oil,Fat,1 tbsp,120
+Sugar,Other,1 tbsp,50
+Soda,Other,12 oz,150
+Juice,Other,1 cup,100-150
